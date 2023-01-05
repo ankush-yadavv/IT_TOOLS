@@ -1,0 +1,8 @@
+C:\Users\Student\535_TYCS_pracsss\GameProgrammng\prac5\prac5\prac5\bin\Debug\prac5.exe
+C:\Users\Student\535_TYCS_pracsss\GameProgrammng\prac5\prac5\prac5\bin\Debug\prac5.pdb
+C:\Users\Student\535_TYCS_pracsss\GameProgrammng\prac5\prac5\prac5\obj\Debug\prac5.csprojResolveAssemblyReference.cache
+C:\Users\Student\535_TYCS_pracsss\GameProgrammng\prac5\prac5\prac5\obj\Debug\prac5.Form1.resources
+C:\Users\Student\535_TYCS_pracsss\GameProgrammng\prac5\prac5\prac5\obj\Debug\prac5.Properties.Resources.resources
+C:\Users\Student\535_TYCS_pracsss\GameProgrammng\prac5\prac5\prac5\obj\Debug\prac5.csproj.GenerateResource.Cache
+C:\Users\Student\535_TYCS_pracsss\GameProgrammng\prac5\prac5\prac5\obj\Debug\prac5.exe
+C:\Users\Student\535_TYCS_pracsss\GameProgrammng\prac5\prac5\prac5\obj\Debug\prac5.pdb
